@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Audio Arts",
+  "short_name": "Audio Arts",
+  "description": "Fall 2026 BCIT coursework dashboard",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#0b1020",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
